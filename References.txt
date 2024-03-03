@@ -1,0 +1,9 @@
+Literature Review:
+https://paperswithcode.com/dataset/iam
+
+
+Datasets:
+
+https://datasetsearch.research.google.com/search?query=hand%20writing&docid=L2cvMTF2M3hiZzAyNg%3D%3D
+
+https://paperswithcode.com/datasets?task=handwriting-recognition&page=1
