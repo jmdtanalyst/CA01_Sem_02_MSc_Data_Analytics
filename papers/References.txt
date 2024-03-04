@@ -1,0 +1,18 @@
+Literature Review:
+https://paperswithcode.com/dataset/iam
+
+
+Datasets:
+
+https://datasetsearch.research.google.com/search?query=hand%20writing&docid=L2cvMTF2M3hiZzAyNg%3D%3D
+
+https://paperswithcode.com/datasets?task=handwriting-recognition&page=1
+
+https://archive.ics.uci.edu/dataset/59/letter+recognition
+
+
+Dataset has been collecte from uci.edu under Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Eircode Ireland
+
+https://www.citizensinformation.ie/en/consumer/phone-internet-tv-and-postal-services/eircode/
