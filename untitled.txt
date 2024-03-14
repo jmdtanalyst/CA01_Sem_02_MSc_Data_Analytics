@@ -1,0 +1,3 @@
+references:
+
+https://www.gopichandrakesan.com/day-44-code-example-import-emnist-dataset-and-print-handwritten-letters/
